@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "18537326934",
+    "project_id": "debatebox-62809",
+    "storage_bucket": "debatebox-62809.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18537326934:android:60a03512f55dea8199cef7",
+        "android_client_info": {
+          "package_name": "com.example.debate_box"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWs-OoE_mrSNa0xw4t-Rpv8_8XB30QiJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

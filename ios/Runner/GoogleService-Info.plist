@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDNx1R5LtS7hu6cespnPuqD0mZ4pCjQ-hA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>18537326934</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.debateBox</string>
+	<key>PROJECT_ID</key>
+	<string>debatebox-62809</string>
+	<key>STORAGE_BUCKET</key>
+	<string>debatebox-62809.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:18537326934:ios:eb6b3cb2e097744f99cef7</string>
+</dict>
+</plist>
